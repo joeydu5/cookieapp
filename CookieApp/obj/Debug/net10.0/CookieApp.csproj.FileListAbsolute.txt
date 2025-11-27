@@ -12,3 +12,4 @@
 /Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.pdb
 /Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.genruntimeconfig.cache
 /Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/ref/CookieApp.dll
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.sourcelink.json
