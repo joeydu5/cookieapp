@@ -1,0 +1,14 @@
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/bin/Debug/net10.0/CookieApp
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/bin/Debug/net10.0/CookieApp.deps.json
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/bin/Debug/net10.0/CookieApp.runtimeconfig.json
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/bin/Debug/net10.0/CookieApp.dll
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/bin/Debug/net10.0/CookieApp.pdb
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.AssemblyInfo.cs
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.dll
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/refint/CookieApp.dll
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.pdb
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/CookieApp.genruntimeconfig.cache
+/Users/joe/Desktop/dotnet/CookieApp/CookieApp/obj/Debug/net10.0/ref/CookieApp.dll
